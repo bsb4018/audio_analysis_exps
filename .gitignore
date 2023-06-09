@@ -1,3 +1,6 @@
+data/
+models/
 exp2.ipynb
-mfcc_60_coughvid.parquet
-audio_classification_v1.0.hdf5
+exp3_cnn.ipynb
+Genre_classification.ipynb
+COUGHVID-DATASET-ANALYSIS.ipynb
